@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: elasticsearch-it
+    
+elasticsearch: 
+  host: localhost:9200
